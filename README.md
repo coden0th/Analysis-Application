@@ -44,7 +44,7 @@ With these tools, companies can:
 ![analiz_room](https://github.com/coden0th/Analysis-Application/blob/main/Screenshots/analiz_room.jpeg?raw=true)
 ![add_hotel](https://github.com/coden0th/Analysis-Application/blob/main/Screenshots/otel_ekle.jpg?raw=true)
 ![add_companies](https://github.com/coden0th/Analysis-Application/blob/main/Screenshots/Add_companies.jpeg?raw=true)
-![analiz](https://github.com/coden0th/Analysis-Application/blob/main/Screenshots/analiz.jpeg?raw=true)
+![analiz](https://github.com/coden0th/Analysis-Application/blob/main/Screenshots/analizz.jpeg?raw=true)
 ![report_bug](https://github.com/coden0th/Analysis-Application/blob/main/Screenshots/report_bug.jpeg?raw=true)
 
 ---
